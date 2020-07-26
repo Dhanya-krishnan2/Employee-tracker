@@ -81,6 +81,8 @@ How do you deliver this? Here are some guidelines:
 * Review the week's activities for a refresher on MySQL.
 
 * Check out [SQL Bolt](https://sqlbolt.com/) for some extra MySQL help.
+* used all the hints provided for the development of this program.
+
 
 ## Minimum Requirements
 
@@ -112,13 +114,16 @@ How do you deliver this? Here are some guidelines:
 
  I  created a database called employee-db, and created table with filed role, employee, department with the corresponding information. All the code used to create database and tables are given in schema.sql. The insertion into the field is done by the queries which is provided in seeds.sql.
    
-   ` I created a program called app.js which require the module from "mysql", "inquirer" packages to develop a command line application and which alters the tables for users choice and maintain the tables according to the update`.
+   ` I created a program called app.js which require the module from "mysql", "inquirer" packages to develop a command line application and which alters the tables for users choice and maintain the tables according to the update`. 
+   
+   ## The javascript flow I used here is "CRUD", That is create, read, update, and delete.
 
 
 ## Submission on BCS
 
 You are required to submit the following:
 
-* The URL of the GitHub repository
+* The URL of the GitHub repository is the following:
+https://github.com/Dhanya-krishnan2/Employee-tracker
 
 
